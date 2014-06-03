@@ -1,0 +1,13 @@
+F_SRC;F_TYPE;F_DATE;F_ISIN;F_FOND;F_BETRAG;F_START;F_ENDE;F_VERKAUF;F_COUNT;F_KURS 
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Oktober 2013;Fonds;01.10.2013;ISIN1;Fondsparplan 1;25,00;03.07.2000;31.07.2006;01.11.2013;38,72;40,56
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Oktober 2013;Fonds;01.10.2013;ISIN1_2;Fondsparplan 1 Nr.2;25,00;22.11.2010;01.11.2013;01.11.2013;51,00;40,56
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Oktober 2013;Fonds;01.10.2013;ISIN3;Fondsparplan 3;25,00;29.11.2006;01.11.2013;01.11.2013;11,39;317,23
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-November 2013;Fonds;01.11.2013;ISIN1;Fondsparplan 1;25,00;03.07.2000;31.07.2006;01.12.2013;38,72;40,50
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-November 2013;Fonds;01.11.2013;ISIN1_2;Fondsparplan 1 Nr.2;25,00;22.11.2010;01.12.2013;01.12.2013;51,50;40,50
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-November 2013;Fonds;01.11.2013;ISIN3;Fondsparplan 3;25,00;29.11.2006;01.12.2013;01.12.2013;11,50;310,00
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Dezember 2013;Fonds;01.12.2013;ISIN1;Fondsparplan 1;25,00;03.07.2000;31.07.2006;01.01.2014;38,72;42,00
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Dezember 2013;Fonds;01.12.2013;ISIN1_2;Fondsparplan 1 Nr.2;25,00;22.11.2010;01.01.2014;01.01.2014;51,80;42,00
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Dezember 2013;Fonds;01.12.2013;ISIN3;Fondsparplan 3;25,00;29.11.2006;01.01.2014;01.01.2014;11,80;310,00
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Januar 2014;Fonds;01.01.2014;ISIN1;Fondsparplan 1;25,00;03.07.2000;31.07.2006;01.01.2014;38,72;42,00
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Januar 2014;Fonds;01.01.2014;ISIN1_2;Fondsparplan 1 Nr.2;25,00;22.11.2010;01.01.2014;01.01.2014;51,80;42,00
+D:\Projekte\DPSFinance\excel\\haushaltsbuch.xls-Januar 2014;Fonds;01.01.2014;ISIN3;Fondsparplan 3;25,00;29.11.2006;01.01.2014;01.01.2014;11,80;310,00
