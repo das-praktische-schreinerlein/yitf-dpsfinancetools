@@ -2,22 +2,22 @@ yitf-dpsfinancetools - "Das praktische Schreinerlein" - Finanztools
 =====================
 
 # Desc
-A toolset for financeplaning and management
-It contains Excel-sheets and some java-progs to convert data between them.
-But be aware the whole Excel-Sheets are in german language ;-)
+A toolset for financial planning and management
+It contains Excel-sheets and some java-progs to convert data between those sheets.
+But be aware, all Excel-Sheets are in German ;-)
 
 ## "Finanzplanung"
-With excel/finanzplanung.xls you can configure and play finance-szenarios like: 
-how will be your finance-situation if you are unemployed or you will buy your 
+With excel/finanzplanung.xls you can configure and play finance scenarios like: 
+how will your financial situation be if you are unemployed or how will it develop if you buy your 
 own house.
  
 ## "Haushaltsbuch"
-With excel/haushaltsbuch.xls you can plan and document your whole payments.
+With excel/haushaltsbuch.xls you can plan and document all your expenses.
 
 ## "Finanzübersicht"
 After data-export from "Finanzplanung" with the javaprogs, you can
 analyse them in excel/finanzuebersicht.xls. It gives you an overview over your
-payments and visualizes trends and so on with the help of charts.
+expenses or visualize trends with the help of charts etc.
 
 # TODO for me
 - [ ] documentation
@@ -79,6 +79,9 @@ excel\extractBuchungen.bat
 excel\extractFonds.bat
 ```
 Then open excel/finanzuebersicht.xls and update the sheets "Buchungen", "Fonds".
+
+# Thanks to
+- https://github.com/apache/poi
 
 # License
 ```bat
